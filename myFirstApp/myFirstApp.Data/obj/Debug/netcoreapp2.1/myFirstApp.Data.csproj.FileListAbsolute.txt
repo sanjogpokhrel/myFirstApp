@@ -1,0 +1,14 @@
+\\vroamvan01\FolderRedirects\Documents\VHP\spokhrel\Documents\WebApp\myFirstApp\myFirstApp.Data\bin\Debug\netcoreapp2.1\myFirstApp.Data.deps.json
+\\vroamvan01\FolderRedirects\Documents\VHP\spokhrel\Documents\WebApp\myFirstApp\myFirstApp.Data\bin\Debug\netcoreapp2.1\myFirstApp.Data.dll
+\\vroamvan01\FolderRedirects\Documents\VHP\spokhrel\Documents\WebApp\myFirstApp\myFirstApp.Data\bin\Debug\netcoreapp2.1\myFirstApp.Data.pdb
+\\vroamvan01\FolderRedirects\Documents\VHP\spokhrel\Documents\WebApp\myFirstApp\myFirstApp.Data\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.dll
+\\vroamvan01\FolderRedirects\Documents\VHP\spokhrel\Documents\WebApp\myFirstApp\myFirstApp.Data\bin\Debug\netcoreapp2.1\myFirstApp.Core.dll
+\\vroamvan01\FolderRedirects\Documents\VHP\spokhrel\Documents\WebApp\myFirstApp\myFirstApp.Data\bin\Debug\netcoreapp2.1\myFirstApp.Core.pdb
+\\vroamvan01\FolderRedirects\Documents\VHP\spokhrel\Documents\WebApp\myFirstApp\myFirstApp.Data\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.pdb
+\\vroamvan01\FolderRedirects\Documents\VHP\spokhrel\Documents\WebApp\myFirstApp\myFirstApp.Data\bin\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.xml
+\\vroamvan01\FolderRedirects\Documents\VHP\spokhrel\Documents\WebApp\myFirstApp\myFirstApp.Data\obj\Debug\netcoreapp2.1\myFirstApp.Data.csprojAssemblyReference.cache
+\\vroamvan01\FolderRedirects\Documents\VHP\spokhrel\Documents\WebApp\myFirstApp\myFirstApp.Data\obj\Debug\netcoreapp2.1\myFirstApp.Data.AssemblyInfoInputs.cache
+\\vroamvan01\FolderRedirects\Documents\VHP\spokhrel\Documents\WebApp\myFirstApp\myFirstApp.Data\obj\Debug\netcoreapp2.1\myFirstApp.Data.AssemblyInfo.cs
+\\vroamvan01\FolderRedirects\Documents\VHP\spokhrel\Documents\WebApp\myFirstApp\myFirstApp.Data\obj\Debug\netcoreapp2.1\myFirstApp.Data.csproj.CopyComplete
+\\vroamvan01\FolderRedirects\Documents\VHP\spokhrel\Documents\WebApp\myFirstApp\myFirstApp.Data\obj\Debug\netcoreapp2.1\myFirstApp.Data.dll
+\\vroamvan01\FolderRedirects\Documents\VHP\spokhrel\Documents\WebApp\myFirstApp\myFirstApp.Data\obj\Debug\netcoreapp2.1\myFirstApp.Data.pdb

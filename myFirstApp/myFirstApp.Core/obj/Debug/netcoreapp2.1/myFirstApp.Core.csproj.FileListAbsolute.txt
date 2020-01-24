@@ -1,0 +1,8 @@
+\\vroamvan01\FolderRedirects\Documents\VHP\spokhrel\Documents\WebApp\myFirstApp\myFirstApp.Core\bin\Debug\netcoreapp2.1\myFirstApp.Core.deps.json
+\\vroamvan01\FolderRedirects\Documents\VHP\spokhrel\Documents\WebApp\myFirstApp\myFirstApp.Core\bin\Debug\netcoreapp2.1\myFirstApp.Core.dll
+\\vroamvan01\FolderRedirects\Documents\VHP\spokhrel\Documents\WebApp\myFirstApp\myFirstApp.Core\bin\Debug\netcoreapp2.1\myFirstApp.Core.pdb
+\\vroamvan01\FolderRedirects\Documents\VHP\spokhrel\Documents\WebApp\myFirstApp\myFirstApp.Core\obj\Debug\netcoreapp2.1\myFirstApp.Core.csprojAssemblyReference.cache
+\\vroamvan01\FolderRedirects\Documents\VHP\spokhrel\Documents\WebApp\myFirstApp\myFirstApp.Core\obj\Debug\netcoreapp2.1\myFirstApp.Core.AssemblyInfoInputs.cache
+\\vroamvan01\FolderRedirects\Documents\VHP\spokhrel\Documents\WebApp\myFirstApp\myFirstApp.Core\obj\Debug\netcoreapp2.1\myFirstApp.Core.AssemblyInfo.cs
+\\vroamvan01\FolderRedirects\Documents\VHP\spokhrel\Documents\WebApp\myFirstApp\myFirstApp.Core\obj\Debug\netcoreapp2.1\myFirstApp.Core.dll
+\\vroamvan01\FolderRedirects\Documents\VHP\spokhrel\Documents\WebApp\myFirstApp\myFirstApp.Core\obj\Debug\netcoreapp2.1\myFirstApp.Core.pdb
